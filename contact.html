@@ -23,11 +23,11 @@
                 <h2>Contact</h2>
                 <form>
                     <label for="name">Name:</label><br>
-                    <input type="text" id="name" value=""><br />
+                    <input type="text" id="name" value="" minlength="2" maxlength="20" required /><br />
                     <label for="email">Email:</label><br />
-                    <input type="email" id="email" value=""><br />
+                    <input type="email" id="email" value="" required /><br />
                     <label for="message">Message:</label><br />
-                    <input type="text" id="message" value="" ><br /><br />
+                    <textarea id="message" name="message" minlength="3" maxlength="100" required ></textarea><br /><br />
                     <input type="submit" value="Submit">
                 </form>
             </section>
