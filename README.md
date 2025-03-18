@@ -5,11 +5,8 @@ __WORK IN PROGRESS__
 
 ## TO DO
 - Finish populating:
-
--- Main Page
-
--- Articles
-
--- Projects
+  - Main Page
+  - Articles
+  - Projects
 
 
